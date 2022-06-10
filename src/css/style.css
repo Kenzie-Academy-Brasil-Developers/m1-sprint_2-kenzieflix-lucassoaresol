@@ -73,6 +73,7 @@ section{
 
 .avatar_img01:hover{
     border-color: #FFFFFF;
+    transition: 1.5s;
 }
 
 .avatar_img02{
@@ -81,6 +82,7 @@ section{
 
 .avatar_img02:hover{
     border-color: #FFFFFF;
+    transition: 1.5s;
 }
 
 .avatar_img03{
@@ -89,8 +91,7 @@ section{
 
 .avatar_img03:hover{
     border-color: #FFFFFF;
-    background-repeat: no-repeat;
-    background-position: center;
+    transition: 1.5s;
 }
 
 .avatar_img04{
@@ -105,6 +106,7 @@ section{
     background-repeat: no-repeat;
     background-position: center;
     border-color: #FFFFFF;
+    transition: 1.5s;
 }
 
 h2{
@@ -116,6 +118,7 @@ h2{
 
 .avatar_caixa:hover h2{
     color: #FFFFFF;
+    transition: 1.5s;
 }
 
 .botao{
@@ -131,6 +134,7 @@ h2{
 
 .botao:hover{
     background-color: #FFFFFF;
+    transition: 1.5s;
 }
 
 .botao a{
@@ -141,4 +145,5 @@ h2{
 
 .botao:hover a{
     color: #000000;
+    transition: 1s;
 }
